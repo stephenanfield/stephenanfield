@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stephenanfield, and I'm a music-loving, dot-connecting, lifelong learning human.
+- 👋 Hi, I’m @stephenanfield, and I'm a music-loving, dot-connecting, #LifeLongLearning human.
 
 - 🌱 I’m currently a graduate student at the University of Michigan.
 
