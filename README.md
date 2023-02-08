@@ -4,13 +4,7 @@
 
 - 👀 I’m interested in social good, technology, technology for social good, social impact, gadgets, big ideas, and all types of music. 
 
-- 🍏🍿🧀 I'm a snack sharer extraordinaire. 
-
-- 💞️ I’m looking to collaborate on anything cool within my skillset. 
-
-- 📫 How to reach me: https://stephenanfield.com. 
-
-#GoVols #GoBlue
+- 🍏🍿🧀 Snack sharer extraordinaire. 
 
 <!---
 stephenanfield/stephenanfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
