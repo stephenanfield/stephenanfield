@@ -4,7 +4,9 @@
 
 - 👀 Interests: music, technology, service, health, mental health
 
-- 🍏🍿🧀 Snack sharer extraordinaire. 
+- 🍏🍿🧀 Snack sharer
+
+[Website](https://stephenanfield.com "Stephen Anfield Personal Website") 
 
 <!---
 stephenanfield/stephenanfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
