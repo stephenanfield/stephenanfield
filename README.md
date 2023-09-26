@@ -2,7 +2,7 @@
 
 - 🌱 Graduate student at the University of Michigan
 
-- 👀 Interests: music, technology, service, health, mental health
+- 👀 Interests: music, technology, service, public health
 
 - 🍏🍿🧀 Snack sharer
 
