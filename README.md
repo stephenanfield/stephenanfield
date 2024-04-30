@@ -1,6 +1,6 @@
 ## Hey, y'all! I'm Stephen Anfield. 👋🏾
 
-I'm a Social Work and Health Equity Connector passionate about empowering communities. I'm on a mission to bridge the gap between technology, social work, and population health one commit at a time. Join me in making a difference!
+I'm a Social Work and Health Equity Connector passionate about empowering communities. I'm on a mission to bridge the gap between technology, social work, and population health one commit at a time. 
 
 **About Me:**
 - 💼 Social Work and Health Equity Connector
